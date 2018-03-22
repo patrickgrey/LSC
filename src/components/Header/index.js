@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          Lochgilphead Soccer Centre
         </Link>
       </h1>
     </div>
